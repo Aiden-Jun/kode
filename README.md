@@ -22,4 +22,3 @@ The model must have the "tools" tag
 #### Heavier
 - [Qwen 3.5 9B](https://ollama.com/library/qwen3.5:9b)
 - [Ministral 3 8B](https://ollama.com/library/ministral-3:8b)
-
